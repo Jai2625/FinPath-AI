@@ -1,0 +1,20 @@
+{
+  "Conservative": {
+    "Fixed Deposit": 40,
+    "PPF": 30,
+    "Debt Fund": 20,
+    "Gold": 10
+  },
+  "Moderate": {
+    "Index Fund": 50,
+    "Debt Fund": 20,
+    "PPF": 20,
+    "Gold": 10
+  },
+  "Aggressive": {
+    "Index Fund": 60,
+    "Flexi Cap Fund": 20,
+    "International ETF": 10,
+    "Gold": 10
+  }
+}
