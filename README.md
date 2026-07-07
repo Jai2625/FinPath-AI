@@ -49,6 +49,26 @@ pip install -r requirements.txt
 python app.py
 ```
 
+## Demo Video
+
+A complete demonstration of FinPath AI is included in this repository.
+
+Location:
+
+```text
+Demo/FinPathAI_Demo.mp4
+```
+
+The demo showcases:
+- Risk Profiling
+- Financial Health Analysis
+- Goal Planning & SIP Calculator
+- Asset Allocation Recommendations
+- Pie Chart Visualization
+- FinPath AI Assistant
+```
+
+
 ## Author
 
 Jai Singh
